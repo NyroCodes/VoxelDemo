@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Profiling;
 
+
+
 public class Chunk : MonoBehaviour
 {
     public MeshFilter meshFilter;
